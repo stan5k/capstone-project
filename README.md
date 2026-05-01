@@ -1,13 +1,13 @@
-# Project Title
+# Lecture Summarizer
 
 ## Problem Statement
-[What problem are you solving? Why is it important?]
+Summarize lecture transcripts/videos
 
 ## Dataset
-[Where did you get the data? How much data? Any preprocessing?]
+Dataset: YouTube lecture transcripts, CourseNotes
 
 ## Methodology
-[What models did you try? What was your approach?]
+Tech: Whisper (transcription) + T5 (summarization)
 
 ## Results
 [What metrics did you achieve? How does it compare to baseline?]
