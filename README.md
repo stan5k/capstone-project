@@ -4,10 +4,10 @@
 Summarize lecture transcripts/videos
 
 ## Dataset
-Dataset: YouTube lecture transcripts, CourseNotes
+YouTube lecture transcripts, CourseNotes
 
 ## Methodology
-Tech: Whisper (transcription) + T5 (summarization)
+Whisper (transcription) + T5 (summarization)
 
 ## Results
 [What metrics did you achieve? How does it compare to baseline?]
